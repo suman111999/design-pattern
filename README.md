@@ -1,0 +1,1 @@
+This reposity is for exploring and learning design patterns.
